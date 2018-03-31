@@ -1,5 +1,6 @@
 # Programming Languages
 
+* [Concepts, Techniques, and Models of Computer Programming](books/ctm.pdf)
 * [Advanced Programming Language Design](books/Advanced-programming-language-design.pdf)
 
 ## Assembly
@@ -35,13 +36,23 @@
 
 * [Kotlin avoids entire categories of Java defects](https://proandroiddev.com/kotlin-avoids-entire-categories-of-java-defects-89f160ba4671)
 
+## Prolog
+
+* [P-99: Ninety-Nine Prolog Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
+
 ## Ruby
 
 * [Sinatra Book](https://sinatra-org-book.herokuapp.com/)
 
 ## Rust
 
+* [The Rust Programming Language](https://doc.rust-lang.org/book/second-edition/)
 * [Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+
+## Scheme
+
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+  * [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 ## TypeScript
 
