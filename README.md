@@ -76,6 +76,7 @@
 
 # Miscellaneous
 
+* [Competitive Programming](books/competitive-programming.pdf)
 * [RESTful Web Services](books/rest.pdf)
 * [What every coder should know about gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
@@ -106,4 +107,3 @@
   * [Stop cherry-picking, start merging, Part 7: Preventing a change from leaving a branch](https://blogs.msdn.microsoft.com/oldnewthing/20180320-00/?p=98275)
   * [Stop cherry-picking, start merging, Part 8: How to merge a partial cherry-pick](https://blogs.msdn.microsoft.com/oldnewthing/20180321-00/?p=98285)
   * [Stop cherry-picking, start merging, Part 9: Chasing the commit](https://blogs.msdn.microsoft.com/oldnewthing/20180322-00/?p=98295)
-
