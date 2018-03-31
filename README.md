@@ -1,3 +1,9 @@
+# Haskell
+
+## Free books
+
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
+
 # Common Lisp
 
 ## Links
@@ -13,3 +19,10 @@
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 * [On Lisp](books/on-lisp.pdf)
 * Paradigms of AI Programming [[Part 1]](books/PAIP-part1.pdf) [[Part 2]](books/PAIP-part2.pdf)
+
+
+# Programming Languages in General
+
+## Free books
+
+* [Advanced Programming Language Design](Advanced-programming-language-design.pdf)
