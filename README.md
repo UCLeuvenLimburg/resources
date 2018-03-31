@@ -10,6 +10,7 @@
 
 * [32bit DOS Development with Open Watcom](http://tuttlem.github.io/2015/10/04/32bit-dos-development-with-open-watcom.html)
 * [Allegro](http://liballeg.org/)
+* [The Last Thing D Needs -- Scott Meyers](https://www.youtube.com/watch?v=KAWA1DuvCnQ)
 
 ## Common Lisp
 
@@ -27,6 +28,8 @@
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [Hoogle](https://www.haskell.org/hoogle/)
+* [Don't Fear The Monad](https://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-Dont-fear-the-Monads)
+* [Erik Meijer Functional Programming Fundamentals](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 
 ## Kotlin
 
